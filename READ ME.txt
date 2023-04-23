@@ -1,0 +1,5 @@
+This is a code made to Track the position of a light source.
+It allows a servomotor to move its axis with the Servo.h library and 2 photoresistors.
+
+The comments are in french and the whole wode comes with this video (the schematics and explanations are in this video but its still a french version)
+  https://youtu.be/fcV6eeTGQT4
